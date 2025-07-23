@@ -1,0 +1,42 @@
+[
+  {
+    "stock_id": "S001",
+    "stock_name": "Design Model",
+    "stock_units": "WK-7890",
+    "quantity": 100,
+    "status": "Low Stock",
+    "updated_at": "2025-07-20T14:30:00Z"
+  },
+  {
+    "stock_id": "S002",
+    "stock_name": "Display Model",
+    "stock_units": "LM-1080",
+    "quantity": 25,
+    "status": "In Stock",
+    "updated_at": "2025-07-21T09:45:00Z"
+  },
+  {
+    "stock_id": "S003",
+    "stock_name": "Warehouse Stock",
+    "stock_units": "HP-NC900",
+    "quantity": 0,
+    "status": "Out of Stock",
+    "updated_at": "2025-07-22T08:15:00Z"
+  },
+  {
+    "stock_id": "S004",
+    "stock_name": "Bulk Storage",
+    "stock_units": "SSD-1TB-X9",
+    "quantity": 118,
+    "status": "In Stock",
+    "updated_at": "2025-07-22T10:20:00Z"
+  },
+  {
+    "stock_id": "S005",
+    "stock_name": "Promo Shelf",
+    "stock_units": "BT-MOUSE-Z5",
+    "quantity": 4,
+    "status": "Low Stock",
+    "updated_at": "2025-07-21T16:00:00Z"
+  }
+]
